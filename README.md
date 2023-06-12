@@ -12,3 +12,5 @@ Target
 6) Close: Closing price of the target
 
 Closing price of stock on a particular day is targeted based on given other features. Linear regression algorithm is used for predicting the price.
+
+R2 score of 0.99 is achieved
